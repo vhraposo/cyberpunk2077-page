@@ -18,4 +18,4 @@
 Deploy: https://cyberpunk2077-page.vercel.app/
 
 Preview: 
-![preview](./preview.png)
+![preview](./preview.PNG)
